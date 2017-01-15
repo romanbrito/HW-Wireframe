@@ -36,9 +36,7 @@ article{
   background: #777;
   color: #fff;
 }
-h2{
-  color: #777;
-}
-p{
+
+h2, p{
   color: #777;
 }
